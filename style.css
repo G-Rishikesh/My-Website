@@ -1,0 +1,79 @@
+/* #heading{
+    background-color:cornsilk;
+    color:black;
+    text-align:center;
+    font-family: 'Luxurious Roman', cursive;
+    font-variant: small-caps;
+} */
+#intro
+{
+    color:burlywood;
+}
+/* #name
+{
+    color:red;
+    background-color: blue;
+} */
+#t1
+{
+    color:burlywood;
+}
+#about
+{
+    font-size: large;
+}
+#container
+{
+    background-color:cornsilk;
+    color:black;
+    text-align:center;
+    font-family: 'Luxurious Roman', cursive;
+    font-variant: small-caps;
+}
+body{
+    background-color: black;
+    width:100vw;
+    height:100vw;
+}
+/* #details
+{
+    color:black;
+    background-color: cornsilk;
+} */
+#table
+{
+    color:antiquewhite;
+}
+#pic
+{
+    height:300px;
+    /* width: 180px; */
+    border-radius: 100px;
+    text-align: right;
+}
+#insta
+{
+    color:antiquewhite;
+}
+#github
+{
+    color:antiquewhite;
+}
+#more
+{
+    color:antiquewhite;
+}
+#instaLogo
+{
+    height:25px;
+    border-radius:13px;
+}
+#GitHubLogo
+{
+    height:25px;
+    border-radius: 13px;
+}
+#hobbies
+{
+    color:antiquewhite;
+}
